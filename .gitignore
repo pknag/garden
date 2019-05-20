@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.[oa]
+*.dll
+*.so
+*.dylib
+*~
+*.lx64fsl
+*.dx64fsl
+.DS_Store
+*.64xfasl
+*.fasl
+*.fas
+*.lib
+.svn
+\#*
+.\#*
+_darcs
+*.pyc
+.idea
+/results/
+.ipynb_checkpoints/
+logs/
+stash/
